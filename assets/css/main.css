@@ -1763,14 +1763,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 48px;
-			height: 48px;
-			background: #f00;
+			width: 76px;
+			height: 76px;
+			background: transparent;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 76px;
+				height: 76px;
 			}
 
 		.image.fit {
